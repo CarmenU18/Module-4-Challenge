@@ -52,5 +52,12 @@ Although ratings were impacted, Thomas High School remains in second place in th
 
     ![img](https://github.com/CarmenU18/Module-4-Challenge/blob/main/Resources/School%20type.PNG)
 
+## Summary
 
+The four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs
+
+- Recalculate the math and reading grade point average without considering ninth grade.
+- Recalculate % Passing Math and Reading score for Thomas High School.
+- Recalculate the average grade point average of students who passed both subjects, as well as the percentage of students who passed.
+- Replace the new calculations in the summary DataFrame.
 
